@@ -1,3 +1,8 @@
+#+TITLE: Key Club Secretary Reference
+#+OPTIONS: toc:2
+
+
+
 * Introduction
 Hey there brand new Key Club Secretary!!!
 I am Dimitri Lopez and I made this monstrosisty of a system :P
@@ -7,7 +12,9 @@ Make sure you contact me before you get frustrated!
 
 * Contact Information
 Name: Dimitri Lopez
+
 Email Address: dimitrilopez01@gmail.com
+
 Phone Number: 505-699-0691
 -----------------------
 
@@ -21,77 +28,77 @@ This is what you guys are all here for :P
 
 You should only have to do this once per year. Go slow so that you don't have to do it twice.
 
-I recommend that you do all of this initial setup while logged in to **ONLY** the Kiwanis account.
+I recommend that you do all of this initial setup while logged in to *ONLY* the Kiwanis account.
     Contact your president if you don't have login information.
      This ensures that all our records won't get wiped when you graduate LAHS! It also ensures that permissions are setup properly
     
 ** Copying Files
 You must copy all of the files and the folders in Key Club 20XX-20XX Folder.
-The Key Club 20XX-20XX is used as a blank template for all the future secretaries. Please don't dirty it. **COPY IT!!**
+The Key Club 20XX-20XX is used as a blank template for all the future secretaries. Please don't dirty it. *COPY IT!!*
 
-You are going to copy the files and the file structure of the **Key Club 20XX-20XX** folder. The point is to make a **duplicate** of this folder. I would not attempt to do anything fancy *suck
+You are going to copy the files and the file structure of the *Key Club 20XX-20XX* folder. The point is to make a *duplicate* of this folder. I would not attempt to do anything fancy such as downloading the entire folder and then reuploading it.
 
-You are now going to copy the file structure of the **Key Club 20XX-20XX** folder. The point is to make a duplicate of this folder. Sadly there is not an easy way to copy a folder. Be careful doing anything fancy (such as downloading this folder and then uploading it), there is a bunch of code attached to pretty much every single file in this directory. The names of all the files are also important. Copy the files as accurately as possible! This is tedious and annoying but not difficult! There are explicit instructions below. Remember your goal is to **COPY** the file structure of this folder as **accurately** as possible!
+You are now going to copy the file structure of the *Key Club 20XX-20XX* folder. The point is to make a duplicate of this folder. Sadly there is not an easy way to copy a folder. Be careful doing anything fancy (such as downloading this folder and then uploading it), there is a bunch of code attached to pretty much every single file in this directory. The names of all the files are also important. Copy the files as accurately as possible! This is tedious and annoying but not difficult! There are explicit instructions below. Remember your goal is to *COPY* the file structure of this folder as *accurately* as possible!
 
 1. Create a folder for your year in the Secretary folder.
-   - For example you can call it **Key Club 2020-2021** It should be with all the other Secretary folders.
-   - I will be using **Key Club 2020-2021** as an example for the rest of the instructions
+   - For example you can call it *Key Club 2020-2021* It should be with all the other Secretary folders.
+   - I will be using *Key Club 2020-2021* as an example for the rest of the instructions
 
-2. Select all the files in this folder, right click, and select **Make a Copy** This will take a few seconds. Move all of the copies to the folder you just created (I would move them to **Key Club 2020-2021** for example).
+2. Select all the files in this folder, right click, and select *Make a Copy* This will take a few seconds. Move all of the copies to the folder you just created (I would move them to *Key Club 2020-2021* for example).
 
-3. Create the following folders in the main folder you just created (it should match the folders in the **Key Club 20XX-20XX** folder).
+3. Create the following folders in the main folder you just created (it should match the folders in the *Key Club 20XX-20XX* folder).
    - As an example I would create the following:
      + Attendance Sheets 2020-2021
      + Hours Surveys 2020-2021
-     + Both of the above folders would be in my **Key Club 2020-2021** folder
+     + Both of the above folders would be in my *Key Club 2020-2021* folder
 
-4. In the **Key Club 20XX-20XX** folder that we are copying from, there is a single file within both:
+4. In the *Key Club 20XX-20XX* folder that we are copying from, there is a single file within both:
    - Attendance Sheets 20XX-20XX
    - Hours Surveys 20XX-20XX
    - Make sure to copy each file and put them in their respective folders.
     
-5. Your web page! You should have copied it already (it's a file titled **Copy of Secretary Web Page Key Club 20XX-20XX**)! But where did it go?
-   - It's in the top level of your drive! Find this file (**Copy of Secretary Web Page Key Club 20XX-20XX**) and move it to the folder that you will be working from all year (I would move it to **Key Club 2020-2021** for example).
+5. Your web page! You should have copied it already (it's a file titled *Copy of Secretary Web Page Key Club 20XX-20XX*)! But where did it go?
+   - It's in the top level of your drive! Find this file (*Copy of Secretary Web Page Key Club 20XX-20XX*) and move it to the folder that you will be working from all year (I would move it to *Key Club 2020-2021* for example).
 
-You're done copying stuff! Woot woot! I hope that was fairly straight forward! Remember your goal was to copy the file structure of the **Key Club 20XX-20XX** folder as accurately as possible!
+You're done copying stuff! Woot woot! I hope that was fairly straight forward! Remember your goal was to copy the file structure of the *Key Club 20XX-20XX* folder as accurately as possible!
 
-6. You need to rename most of the files now. Rename anything that has "Copy of ..." so that it no longer has that prefix. Change the **20XX-20XX** to match the year that you are working in. (For me I would change it to 2020-2021).
+6. You need to rename most of the files now. Rename anything that has "Copy of ..." so that it no longer has that prefix. Change the *20XX-20XX* to match the year that you are working in. (For me I would change it to 2020-2021).
 
-** Setting up your Web Page
+** Setting up Your Web Page
 
 Open up your Secretary Web Page file. There are instructions for setting up the website there. This should take less than 5 minutes.
 
 DO NOT create a new attendance sheet if the website can not find the most recent spreadsheet. You will be able to do this once the first attendance sheet has been created.
 
-** Setting up **Attendance Key Club**
+** Setting up "Attendance Key Club"
 
-1. Go into your **Attendance Sheets Key Club** folder.
-2. You need to rename the **EXAMPLE RENAME** file that you copied earlier. Replace **EXAMPLE RENAME** with the date of your first meeting.
+1. Go into your *Attendance Sheets Key Club* folder.
+2. You need to rename the *EXAMPLE RENAME* file that you copied earlier. Replace *EXAMPLE RENAME* with the date of your first meeting.
 3. At your first meeting, students will add their name in their respective class below the dark line that says
    All New Members - Put Last, First Name Below   Make sure you are on the right class.
    + Make sure that students are putting an x to next to their first name. Otherwise they won't get credit for the meeting.
-4. In the **Attendance Key Club** file, you need to place the last names and the first names of all the students that you want to keep track of (only official members, who have paid dues).
+4. In the *Attendance Key Club* file, you need to place the last names and the first names of all the students that you want to keep track of (only official members, who have paid dues).
    - You only need to do this when you know who your official members are, after dues have been paid
-   - **IMPORTANT**
-     + The last names and first names in your **Attendance Key Club** file need to be **EXACTLY** how they appear on the official member sign in attendance sheets (the spreadsheets used when people sign in).
-     + If a member's attendance isn't showing up, they either put their name under the **wrong CLASS** or their name does not match in the two files.
+   - *IMPORTANT*
+     + The last names and first names in your *Attendance Key Club* file need to be *EXACTLY* how they appear on the official member sign in attendance sheets (the spreadsheets used when people sign in).
+     + If a member's attendance isn't showing up, they either put their name under the wrong class or their name does not match in the two files.
 
-** Setting up **Hours Key Club**
+** Setting up Hours Key Club
 Only set this up after you have sent out your first hours form.
 
 1. Add the first and last names of your official members to the first two columns of the spreadsheet.
-   - These need to show up **EXACTLY** how they show up in the **Attendance Key Club** file.
+   - These need to show up *EXACTLY* how they show up in the *Attendance Key Club* file.
    - If attendance isn't being pulled properly, double check that the names match in the two files.
 2. Add the email addresses of your official members in the Email column
-   - The email addresses need to show up **EXACTLY** as they do in the **Secretary Hours Key Club** file.
-     - The **Secretary Hour
+   - The email addresses need to show up *EXACTLY* as they do in the *Secretary Hours Key Club* file.
+     - The *Secretary Hour TODO
      - You may not have set this up yet, which is perfectly fine! That file doesn't need much, if any setup at all!
 
-** Setting up **Secretary Hours Key Club**
+** Setting up *Secretary Hours Key Club*
 
-This shouldn't need setup if **Hours Key Club** is setup and has data in it!
+This shouldn't need setup if *Hours Key Club* is setup and has data in it!
 The whole point of this file is for you to clean the data that members submit on their forms. I wouldn't mess with anything in here until after you have sent out your first Hours Form and have a few responses.
-** Setting up **Reference File**
+** Setting up *Reference File*
 
 This shouldn't need any setup at all! You might run into errors at the start of the year since there is so little data. By the end of the year, this file will allow you to navigate all the different files a lot easier.
 * Usage
@@ -115,8 +122,8 @@ There are several columns in the body of the web page. These also act as links i
 - You can also create new attendance sheets from the dialogue box
   + The dialogue box comes prepopulated with the current date, feel free to change it to the date that you need
   + Hitting create, will create an attendance sheet based on the most recent attendance sheet that was found
-    - Text saying **Loading...** will appear while the spreadsheet is being created
-    - Text saying **Spreadsheet Created!** will appear when the spreadsheet is done. The most recent attendance sheet will also change allowing easy access to the sheet
+    - Text saying *Loading...* will appear while the spreadsheet is being created
+    - Text saying *Spreadsheet Created!* will appear when the spreadsheet is done. The most recent attendance sheet will also change allowing easy access to the sheet
 **** Trouble Shooting
 Contact Dimitri before you get frustrated!!
 
